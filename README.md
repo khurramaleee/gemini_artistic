@@ -33,7 +33,9 @@ Customizable Prompts
 The app can be extended to allow users to specify additional prompt parameters or control the generation style (e.g., creative writing, technical writing).
 
 ## Screenshots:
-![Uploading Simulator Screenshot - iPhone 15 Pro Max - 2024-03-24 at 13.46.58.png…]()
+
+
+![Home page](https://github.com/khurramaleee/gemini_artistic/assets/38392342/4b626993-f461-44b0-ad8b-07335e85fbc3)
 
 
 
