@@ -2,6 +2,7 @@
 
 This Flutter application demonstrates the seamless integration of Google's cutting-edge Gemini generative AI with Provider state management. Users can either input text prompts or optionally provide an image to generate artistic text descriptions tailored to the content. The app leverages the google_generative_ai package to interact with the Gemini API, empowering you to create innovative and interactive experiences.
 
+tutorial link: https://youtu.be/qQhE1_tGWn4
 ## Getting Started:
 
 ## Prerequisites:
